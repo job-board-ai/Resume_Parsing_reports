@@ -13,7 +13,7 @@ Generated automatically by CI on every change to `services/ai/`.
 
 | Date | Link |
 |------|------|
-| [2026-06-16](./2026-06-16.html) | [View report](./2026-06-16.html) |
+| [2026-06-19](./2026-06-19.html) | [View report](./2026-06-19.html) |
 
 ## How to read
 
